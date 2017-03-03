@@ -8,7 +8,7 @@ Sample project to create api with node
 
 The following was used to create this project
 
-* node
+* node.js
 
 ## Getting started
 
